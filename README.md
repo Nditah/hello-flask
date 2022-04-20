@@ -132,6 +132,12 @@ def delete(todo_id):
      > flask run
 
 
+7. Commit and push your code to github.com and Deactivate the Virtual Env.
+   
+    $ deactivate
+    $ conda deactivate
+
+
 ###
 
 - 📚 Sam's other blogs: [Dev.to](https://dev.to/nditah) | [Hashnode.dev](https://nditah.hashnode.dev/) | [Medium.com](https://nditah.medium.com/)
