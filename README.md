@@ -1,6 +1,6 @@
 ## Flask-App
 
-[Completed App](https://github.com/Nditah/hello_flask) | 
+[Completed App](https://github.com/Nditah/hello-flask) | 
 [Official Website](https://flask.palletsprojects.com/en/2.1.x/installation/) | 
 [Quick Start](https://flask.palletsprojects.com/en/2.1.x/quickstart/)
 
@@ -23,7 +23,6 @@
 ## app.py
 
 ```py
-from turtle import title
 from flask import Flask, render_template, request, redirect, url_for
 from flask_sqlalchemy import SQLAlchemy
 
