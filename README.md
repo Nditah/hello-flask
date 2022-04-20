@@ -1,5 +1,6 @@
 ## Flask-App
 
+[Completed App](https://github.com/Nditah/hello_flask) | 
 [Official Website](https://flask.palletsprojects.com/en/2.1.x/installation/) | 
 [Quick Start](https://flask.palletsprojects.com/en/2.1.x/quickstart/)
 
@@ -130,3 +131,8 @@ def delete(todo_id):
 
      > flask run
 
+
+###
+
+- 📚 Sam's other blogs: [Dev.to](https://dev.to/nditah) | [Hashnode.dev](https://nditah.hashnode.dev/) | [Medium.com](https://nditah.medium.com/)
+- [Github](https://github.com/Nditah)
